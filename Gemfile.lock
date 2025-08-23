@@ -1,0 +1,22 @@
+PATH
+  remote: .
+  specs:
+    plain-case (0.1.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    minitest (5.25.5)
+    rake (13.3.0)
+
+PLATFORMS
+  x86_64-linux
+
+DEPENDENCIES
+  bundler (~> 2.4)
+  minitest (~> 5.19)
+  plain-case!
+  rake (~> 13.2)
+
+BUNDLED WITH
+   2.4.19
